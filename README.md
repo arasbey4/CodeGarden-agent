@@ -13,9 +13,6 @@ Installation
 git clone https://github.com/arasbey4/CodeGarden-agent
 cd CodeGarden-agent
 
-# Install dependencies
-pip install -r requirements.txt
-
 Execution
 
 python main.py
