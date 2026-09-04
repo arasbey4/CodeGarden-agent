@@ -10,7 +10,7 @@ ollama pull codellama
 Installation
 
 # Clone the repository
-https://github.com/arasbey4/CodeGarden-agent
+git clone https://github.com/arasbey4/CodeGarden-agent
 cd CodeGarden-agent
 
 # Install dependencies
